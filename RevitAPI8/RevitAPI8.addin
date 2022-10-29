@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI8.dll"</Assembly>
+		<AddInId>145D547B-B6C1-49B9-9EEF-F16F81B07AAF</AddInId>
+		<FullClassName>RevitAPI8.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для Revit 8</Text>
+	</AddIn>
+</RevitAddIns>
